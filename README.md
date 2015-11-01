@@ -1,2 +1,4 @@
 # batchone
-practice exercises of our first batch
+practice exercises of our first batch 
+
+november
